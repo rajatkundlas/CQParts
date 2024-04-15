@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>CQ_Part_Api_Key</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CQ Part Api Key</shortDescription>
+        <value>b96d75ce0f9f342d10af6710ef8ea7ed0ad06</value>
+    </labels>
+</CustomLabels>
